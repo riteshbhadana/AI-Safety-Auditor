@@ -1,0 +1,2 @@
+YOLO_MODEL_PATH = "models/yolov10n.pt"
+SAFE_DISTANCE = 150
