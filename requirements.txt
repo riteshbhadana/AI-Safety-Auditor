@@ -1,25 +1,8 @@
-# Core
-numpy
-opencv-python
-pillow
-tqdm
-
-# Environment
-python-dotenv
-
-# UI
 streamlit
-
-# YOLO / Vision
 ultralytics
-torch
-torchvision
-
-# Gemini (Google VLM)
-google-generativeai
-
-# PDF generation
+opencv-python-headless
+numpy
+pillow
 reportlab
-
-# (Optional but safe)
-langchain
+google-genai
+python-dotenv
